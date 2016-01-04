@@ -31,7 +31,7 @@ class Component {
 $ npm install babel-plugin-react-autorequire
 ```
 ## Options
-`es5 : true` - will use require `instead` of `import`
+`es5 : true` - will use `require` instead of `import`
 ## Usage
 
 ### Via `.babelrc` (Recommended)
