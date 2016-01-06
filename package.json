@@ -29,9 +29,6 @@
   "keywords": [
     "babel-plugin"
   ],
-  "dependencies": {
-    "babel-preset-react": "^6.3.13"
-  },
   "name": "babel-plugin-react-autorequire",
   "directories": {
     "test": "test"
