@@ -1,7 +1,7 @@
 {
   "plugins": [
     "syntax-jsx",
-    ["./src", {
+    ["../../../src", {
         "es5" : true
     }]
   ]
