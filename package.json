@@ -1,7 +1,7 @@
 {
   "description": "This plugin will autorequire all jsx components from global scope",
   "author": "Alexander @coobaha Ryzhikov",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "lib/index.js",
   "devDependencies": {
     "babel-cli": "^6.3.17",
