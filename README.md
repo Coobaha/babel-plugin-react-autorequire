@@ -1,5 +1,7 @@
 # babel-plugin-react-autorequire
 
+**Please note that this will add implicit magic to your code**
+
 This plugin will autorequire all jsx components from global scope 
 
 ## Example
